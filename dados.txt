@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Rodrigo Prata
+-Profissão: Inspetor de Qualidade
+-Cidade: Maricá RJ
+-O que faz nas horas vaga: Estudos e praticos esportes
+-Feedback sobre o curso Qualidade de Software: excelente, cria expectativas de um futuro promissor 
+-Feedback sobre a plataforma de estudo da EBAC: boa porem deveria melhorar nos layout, deixar mais vivos e exemplificados 
 
 Obrigado!!!
 
